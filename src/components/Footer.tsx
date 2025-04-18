@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer className="footer">
-      <p>2025 © pcallinpairs(a.k.a 조나단, DDDD, 김뚜따리뚜띠, knen).</p>
+      <p>2025 © 조나단</p>
     </footer>
   );
 }
